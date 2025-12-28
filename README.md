@@ -1,2 +1,6 @@
-# NND.
-This app can do everything 
+# NND. 🎮
+This app can do everything!
+
+## 🚀 เข้าเล่นเกมได้ที่นี่
+[คลิกเพื่อเริ่มเล่นเกม (Play Game)](https://narawit19032012n.github.io/NND./)
+
